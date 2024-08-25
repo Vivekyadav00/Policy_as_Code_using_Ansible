@@ -28,7 +28,9 @@ Execution Command:
 
 The playbook was executed with the following command:
 ansible-playbook s3_versioning.yml
+
 ![Results](https://github.com/Vivekyadav00/Policy_as_Code_using_Ansible/blob/main/Result_Images/Screenshot%202024-08-25%20142548.png)
+
 This command ensured that all S3 buckets had versioning enabled, providing protection against accidental deletion and overwriting of objects.
 
 ## Outcome:
